@@ -12,7 +12,7 @@ A proposta é tornar a preparação, a aplicação e o acompanhamento das avalia
 
 O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 
-![Visão geral do Aprender+ em computador e celular](assets/visao-geral-responsiva.png)
+![Visão geral do Aprender+ em computador e celular](visao-geral-responsiva.png)
 
 ## ✨ Funcionalidades
 
@@ -22,7 +22,7 @@ O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 - Registro do nome e da data de nascimento dos alunos.
 - Organização das turmas e matérias.
 
-![Tela de gerenciamento de turmas e alunos](assets/turmas-e-alunos.png)
+![Tela de gerenciamento de turmas e alunos](turmas-e-alunos.png)
 
 ### 📝 Provas e gabaritos
 - Criação e gerenciamento de provas.
@@ -30,39 +30,39 @@ O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 - Configuração das alternativas disponíveis.
 - Organização dos gabaritos relacionados às avaliações.
 
-![Tela de provas e gabaritos](assets/provas-e-gabaritos.png)
+![Tela de provas e gabaritos](provas-e-gabaritos.png)
 
 ### 📷 Leitor de gabaritos
 - Leitura dos gabaritos dos alunos.
 - Identificação das respostas marcadas.
 - Comparação das respostas com o gabarito correto.
 
-![Leitor de gabaritos](assets/leitor-de-gabaritos.png)
+![Leitor de gabaritos](leitor-de-gabaritos.png)
 
 Exemplo da tela de resultado da leitura:
 
-![Resultado da leitura do gabarito](assets/resultado-da-leitura.png)
+![Resultado da leitura do gabarito](resultado-da-leitura.png)
 
 ### 📊 Estatísticas
 - Visualização de informações e indicadores relacionados às avaliações.
 - Acompanhamento dos resultados apresentados pelo sistema.
 
-![Tela de estatísticas](assets/estatisticas.png)
+![Tela de estatísticas](estatisticas.png)
 
 ## 🏠 Tela inicial
 
 A página inicial reúne o acesso às principais áreas do sistema, como alunos e turmas, provas e gabaritos, estatísticas e configurações.
 
-![Página inicial do Aprender+](assets/inicio.png)
+![Página inicial do Aprender+](inicio.png)
 
 ## 💻 Tecnologias utilizadas
 
 As tecnologias utilizadas no desenvolvimento da interface e das funcionalidades são:
 
 <p>
-  <img src="assets/html5.png" alt="HTML5" height="78">
-  <img src="assets/css3.png" alt="CSS3" height="78">
-  <img src="assets/javascript.png" alt="JavaScript" height="78">
+  <img src="html5.png" alt="HTML5" height="78">
+  <img src="css3.png" alt="CSS3" height="78">
+  <img src="javascript.png" alt="JavaScript" height="78">
 </p>
 
 - **HTML5** — estrutura das páginas.

@@ -22,7 +22,7 @@ O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 - Registro do nome e da data de nascimento dos alunos.
 - Organização das turmas e matérias.
 
-![Tela de gerenciamento de turmas e alunos](turmas-e-alunos.png)
+![Tela de gerenciamento de turmas e alunos](Captura de Tela (103).png)
 
 ### 📝 Provas e gabaritos
 - Criação e gerenciamento de provas.
@@ -30,7 +30,7 @@ O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 - Configuração das alternativas disponíveis.
 - Organização dos gabaritos relacionados às avaliações.
 
-![Tela de provas e gabaritos](provas-e-gabaritos.png)
+![Tela de provas e gabaritos](Captura de Tela (101).png)
 
 ### 📷 Leitor de gabaritos
 - Leitura dos gabaritos dos alunos.

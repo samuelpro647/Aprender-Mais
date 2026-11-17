@@ -1,29 +1,93 @@
+# 🎓 Aprender+
 
-# Aprender+
+> **Sistema de gerenciamento de provas, alunos, turmas e leitura de gabaritos.**
 
-> um sistema de aplicações de provas e gabaritos para turmas.
+## 📖 Sobre o projeto
 
-## Sobre o Projeto
-> Um sistema de controle de aplicação de prova, com inscrição dos alunos que irão aplicar a prova (com suas turmas específicas), um gabarito para cada aluno, e um aplicativo de leitura dos gabaritos.
+O **Aprender+** é uma plataforma desenvolvida para auxiliar na organização de avaliações escolares. O sistema reúne recursos para cadastrar turmas e alunos, criar provas e gabaritos e realizar a leitura das respostas dos estudantes.
 
+A proposta é tornar a preparação, a aplicação e o acompanhamento das avaliações mais simples e organizados.
 
+## 🖥️ Visão geral
 
+O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 
-## Funcionalidades
+![Visão geral do Aprender+ em computador e celular](assets/visao-geral-responsiva.png)
 
-- criação e gerenciamento de turmas e alunos
-- criação e gerenciamento de provas e gabaritos
+## ✨ Funcionalidades
 
+### 👨‍🎓 Alunos e turmas
+- Criação e gerenciamento de turmas.
+- Cadastro de alunos vinculados às respectivas turmas.
+- Registro do nome e da data de nascimento dos alunos.
+- Organização das turmas e matérias.
 
+![Tela de gerenciamento de turmas e alunos](assets/turmas-e-alunos.png)
 
+### 📝 Provas e gabaritos
+- Criação e gerenciamento de provas.
+- Definição do título e da quantidade de questões.
+- Configuração das alternativas disponíveis.
+- Organização dos gabaritos relacionados às avaliações.
 
-## Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+![Tela de provas e gabaritos](assets/provas-e-gabaritos.png)
 
-## Como Utilizar
-- Primeiramente, o usuário deve se cadastrar, em seguida, terá a aba de início, com a faixa lateral exibindo outras abas, como a de provas e gabaritos, alunos e turmas, estatísticas e configurações.
-- Para criar uma turma, o usuário deverá ir na aba de alunos e turmas, colocar um nome para a turma e as matérias.
-- Para adicionar um aluno, na aba de alunos e turmas, escolha uma turma e coloque o nome do aluno e sua data de nascimento, assim ele irá ser cadastrado.
-- Para adicionar uma prova, o usuário deverá ir na aba de provas e gabaritos e clicar na opção de criar prova, assim abrirá uma aba para adicionar o título da prova, quantidade de questões e as opções de alternativas.
+### 📷 Leitor de gabaritos
+- Leitura dos gabaritos dos alunos.
+- Identificação das respostas marcadas.
+- Comparação das respostas com o gabarito correto.
+
+![Leitor de gabaritos](assets/leitor-de-gabaritos.png)
+
+Exemplo da tela de resultado da leitura:
+
+![Resultado da leitura do gabarito](assets/resultado-da-leitura.png)
+
+### 📊 Estatísticas
+- Visualização de informações e indicadores relacionados às avaliações.
+- Acompanhamento dos resultados apresentados pelo sistema.
+
+![Tela de estatísticas](assets/estatisticas.png)
+
+## 🏠 Tela inicial
+
+A página inicial reúne o acesso às principais áreas do sistema, como alunos e turmas, provas e gabaritos, estatísticas e configurações.
+
+![Página inicial do Aprender+](assets/inicio.png)
+
+## 💻 Tecnologias utilizadas
+
+As tecnologias utilizadas no desenvolvimento da interface e das funcionalidades são:
+
+<p>
+  <img src="assets/html5.png" alt="HTML5" height="78">
+  <img src="assets/css3.png" alt="CSS3" height="78">
+  <img src="assets/javascript.png" alt="JavaScript" height="78">
+</p>
+
+- **HTML5** — estrutura das páginas.
+- **CSS3** — estilização e apresentação visual.
+- **JavaScript** — funcionalidades e interações do sistema.
+
+## 🚀 Como utilizar
+
+1. Acesse a plataforma e realize seu cadastro.
+2. Entre no sistema para visualizar a página inicial e o menu de navegação.
+3. Na seção **Alunos e Turmas**, crie uma turma informando seu nome e as matérias.
+4. Selecione a turma e cadastre os alunos, preenchendo o nome e a data de nascimento.
+5. Na seção **Provas e Gabaritos**, escolha a opção de criar prova e informe o título, a quantidade de questões e as alternativas.
+6. Utilize os recursos de gabarito e o leitor para registrar e conferir as respostas dos alunos.
+7. Consulte a seção **Estatísticas** para acompanhar os resultados disponibilizados.
+
+## 👥 Equipe de desenvolvimento
+
+- **Desenvolvedor(a):** Adicione seu nome aqui.
+- **Colaboradores:** Adicione os nomes dos participantes do projeto.
+
+## 📌 Status do projeto
+
+🚧 **Em desenvolvimento.**
+
+## 📄 Licença
+
+Projeto desenvolvido com finalidade educacional. Caso seja adotada uma licença de distribuição, informe-a nesta seção.

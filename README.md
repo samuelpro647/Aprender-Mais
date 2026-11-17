@@ -41,19 +41,19 @@ O Aprender+ foi pensado para uso em diferentes tamanhos de tela.
 
 Exemplo da tela de resultado da leitura:
 
-![Resultado da leitura do gabarito](resultado-da-leitura.png)
+![Resultado da leitura do gabarito](leitura.png)
 
 ### 📊 Estatísticas
 - Visualização de informações e indicadores relacionados às avaliações.
 - Acompanhamento dos resultados apresentados pelo sistema.
 
-![Tela de estatísticas](estatisticas.png)
+![Tela de estatísticas](Captura de Tela (102).png)
 
 ## 🏠 Tela inicial
 
 A página inicial reúne o acesso às principais áreas do sistema, como alunos e turmas, provas e gabaritos, estatísticas e configurações.
 
-![Página inicial do Aprender+](inicio.png)
+![Página inicial do Aprender+](Captura de Tela (100).png)
 
 ## 💻 Tecnologias utilizadas
 
